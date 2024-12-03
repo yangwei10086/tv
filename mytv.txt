@@ -1,3 +1,7 @@
+更新时间,#genre#
+2024-10-14
+
+
 CCTV-1 综合,http://php.iptviptv.site/iptv.php?id=cctv01
 CCTV-2 财经,http://php.iptviptv.site/iptv.php?id=cctv2
 CCTV-3 综艺,http://php.iptviptv.site/iptv.php?id=cctvz3
